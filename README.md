@@ -1,5 +1,5 @@
 # rpi-lcd-golang
-interacting with 16x2 LCD using Go
+interacting with 16x2 LCD using Raspberry Pi 2 B+ Go
 
   **build** 
 
